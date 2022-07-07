@@ -1,0 +1,22 @@
+{
+  "name": "algorytms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavIdHabeTyan/algorytms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavIdHabeTyan/algorytms/issues"
+  },
+  "homepage": "https://github.com/DavIdHabeTyan/algorytms#readme",
+  "dependencies": {
+    "jest": "^28.1.2"
+  }
+}
